@@ -2,7 +2,7 @@
 
 ## Core idea
 
-A garage for building apps, tools, and games with AI.
+A garage for building with AI.
 Small projects and experiments that can grow beyond the place they started.
 
 ## Voice
@@ -12,7 +12,7 @@ Describe what we make. Avoid manifestos, grand claims, and repeated slogans.
 
 ## Profile description
 
-A garage for building apps, tools, and games with AI.
+A garage for building with AI.
 
 ## Visual direction
 
