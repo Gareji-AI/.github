@@ -24,6 +24,8 @@ Charcoal, warm ivory, and vivid orange. An open garage with an upward diagonal a
 
 Generated with the built-in image_gen tool on 2026-10-24. These are generated bitmap assets, not vector originals.
 
+The avatar PNG is preserved as the source. A JPEG copy at quality 90 is used for GitHub's avatar upload size limit; its composition is unchanged.
+
 ### Avatar prompt
 
 Use case: logo-brand
