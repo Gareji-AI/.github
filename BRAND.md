@@ -2,19 +2,17 @@
 
 ## Core idea
 
-ガレージから、世界へ。 / From garages to the world.
-
-自宅のガレージや身近な机から、人とAIで次々につくり、試し、育てて世界へ送り出す。ガレージは一か所ではなく、それぞれの場所から始まるものづくりの象徴。
+A garage for building apps, tools, and games with AI.
+Small projects and experiments that can grow beyond the place they started.
 
 ## Voice
 
-短く、具体的に、手を動かす言葉で。好奇心と試行錯誤を大切にする。実績や規模を誇張しない。
-
-つくる。試す。世に出す。 / Build. Experiment. Launch.
+English by default. Keep public copy short, plain, and modest.
+Describe what we make. Avoid manifestos, grand claims, and repeated slogans.
 
 ## Profile description
 
-From garages to the world. Humans and AI building, experimenting, and launching. ガレージから、世界へ。人とAIで、つくる。試す。世に出す。
+A garage for building apps, tools, and games with AI.
 
 ## Visual direction
 
